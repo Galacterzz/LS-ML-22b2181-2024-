@@ -7,5 +7,5 @@ In video i have tested 4 images :
 - Messi
 - Ronaldo
 
-1. Final Project --> [Code file]()
-2. Video Submission --> [Video]()
+1. Final Project &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;--> [Code file](https://github.com/Galacterzz/LS-ML-22b2181-2024-/blob/main/Week%204/Final%20Project.ipynb)
+2. Video Submission --> [Video](https://github.com/Galacterzz/LS-ML-22b2181-2024-/blob/main/Week%204/Facial%20recognition%20video.webm)
